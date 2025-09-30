@@ -1,4 +1,4 @@
-## Hi there, I'm Juls 👋
+## Hi there, I'm Jules 👋
 
 I'm a MSc Statistics student at Imperial College London, having graduated from McGill University with a BSc in Honours Probability & Statistics. Based in London and Montreal, I'm interested in developing and applying statistical methods for sports analytics.
 
